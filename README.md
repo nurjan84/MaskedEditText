@@ -1,4 +1,4 @@
-# MasketEditText
+# MaskedEditText
 
 Simple masked edit text
 
