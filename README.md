@@ -16,7 +16,7 @@ Add the dependency:
 
 ```
 dependencies {
-    compile 'com.github.nurjan84:MasketEditText:1.0.0'
+     compile 'com.github.nurjan84:MaskedEditText:1.0.0'
 }
 ```
 
