@@ -21,7 +21,7 @@
     <kz.nurzhan.maskededittext.MaskedEditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="11051984"
+        android:text="01122017"
         android:inputType="number"
         app:placeholder="_"
         app:mask="99/99/9999"/>
