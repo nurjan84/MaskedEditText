@@ -81,6 +81,7 @@ public class MaskedEditText extends AppCompatEditText {
     public void addMaskedTextWatcher(MaskedTextWatcher l){
         this.maskedTextWatcher = l;
     }
+    public void removeMaskedTextWatcher(){this.maskedTextWatcher=null;}
 
     public String getMask() {
         return mask;
